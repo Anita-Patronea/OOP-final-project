@@ -1,0 +1,84 @@
+{
+    "bookJSONDatabase": [
+        {
+            "author": "Paulo Coelho",
+            "cover": "C:\\Users\\Annie\\Desktop\\Audible\\Imagini\\The Alchemist.jpg",
+            "description": "\"An allegorical novel, The Alchemist follows a young Andalusian shepherd in his journey to the pyramids of Egypt, after having a recurring dream of finding a treasure there.\"",
+            "genre": "action and adventure",
+            "publicationYear": 1988,
+            "title": "The Alchemist"
+        },
+        {
+            "author": "George Orwell",
+            "cover": "C:\\Users\\Annie\\Desktop\\Audible\\Imagini\\1984.jpg",
+            "description": "\"Thematically, Nineteen Eighty-Four centres on the consequences of government over-reach, totalitarianism, mass surveillance, and repressive regimentation of all persons and behaviours within society.\"",
+            "genre": "realistic fiction",
+            "publicationYear": 1949,
+            "title": "Nineteen Eighty-Four (1984)"
+        },
+        {
+            "author": "J. R. R. Tolkien",
+            "cover": "C:\\Users\\Annie\\Desktop\\Audible\\Imagini\\The Hobbit.jpg",
+            "description": "\"The Hobbit is set within Tolkien's fictional universe and follows the quest of home-loving Bilbo Baggins, the titular hobbit, to win a share of the treasure guarded by Smaug the dragon. Bilbo's journey takes him from light-hearted, rural surroundings into more sinister territory.\"",
+            "genre": "fantasy",
+            "publicationYear": 1937,
+            "title": "The Hobbit"
+        },
+        {
+            "author": "Frank Miller",
+            "cover": "C:\\Users\\Annie\\Desktop\\Audible\\Imagini\\The Dark Knight Returns.jpg",
+            "description": "\"The Dark Knight Returns tells an alternative story of Bruce Wayne, who at 55 years old returns from retirement to fight crime and faces opposition from the Gotham City police force and the United States government. The story introduces Carrie Kelley as the new Robin and the hyper-violent street gang known as the Mutants. The story also features the return of classic foes such as Two-Face and The Joker, and culminates with a confrontation against Superman, who works on behalf of the government.\"",
+            "genre": "comic and graphic novel",
+            "publicationYear": 1986,
+            "title": "The Dark Knight Returns"
+        },
+        {
+            "author": "Arthur Conan Doyle",
+            "cover": "C:\\Users\\Annie\\Desktop\\Audible\\Imagini\\The Adventures of Sherlock Holmes.jpg",
+            "description": "\"The Adventures of Sherlock Holmes is a collection of twelve short stories. In general the stories identify, and try to correct, social injustices. Holmes is portrayed as offering a new, fairer sense of justice.\"",
+            "genre": "crime and detective",
+            "publicationYear": 1892,
+            "title": "The Adventures of Sherlock Holmes"
+        },
+        {
+            "author": "Nicholas Sparks",
+            "cover": "C:\\Users\\Annie\\Desktop\\Audible\\Imagini\\The Notebook.jpg",
+            "description": "\"The Notebook is an achingly tender story about the enduring power of love, a story of miracles that will stay with you forever. Set amid the austere beauty of coastal North Carolina in 1946, The Notebook begins with the story of Noah Calhoun, a rural Southerner returned home from World War II.\"",
+            "genre": "romance",
+            "publicationYear": 1996,
+            "title": "The Notebook"
+        },
+        {
+            "author": "George Orwell",
+            "cover": "C:\\Users\\Annie\\Desktop\\Audible\\Imagini\\Animal Farm.jpg",
+            "description": "\"The book tells the story of a group of farm animals who rebel against their human farmer, hoping to create a society where the animals can be equal, free, and happy. Ultimately, however, the rebellion is betrayed, and the farm ends up in a state as bad as it was before, under the dictatorship of a pig named Napoleon.\"",
+            "genre": "satire",
+            "publicationYear": 1945,
+            "title": "Animal Farm"
+        },
+        {
+            "author": "Walter Isaacson",
+            "cover": "C:\\Users\\Annie\\Desktop\\Audible\\Imagini\\Steve Jobs.jpg",
+            "description": "\"Based on more than forty interviews with Jobs conducted over two years—in addition to interviews with more than one hundred family members, friends, adversaries, competitors, and colleagues—Isaacson was given \"unprecedented\" access to Jobs's life.\"",
+            "genre": "biography / autobiography",
+            "publicationYear": 2011,
+            "title": "Steve Jobs"
+        },
+        {
+            "author": "Stephen King",
+            "cover": "C:\\Users\\Annie\\Desktop\\Audible\\Imagini\\The Shining.jpg",
+            "description": "\"The Shining centers on the life of Jack Torrance, an aspiring writer and recovering alcoholic who accepts a position as the off-season caretaker of the historic Overlook Hotel in the Colorado Rockies. His family accompanies him on this job, including his young son Danny Torrance, who possesses \"the shining\", an array of psychic abilities that allow Danny to see the hotel's horrific past.\"",
+            "genre": "horror",
+            "publicationYear": 1977,
+            "title": "The Shining"
+        },
+        {
+            "author": "William Shakespeare",
+            "cover": "C:\\Users\\Annie\\Desktop\\Audible\\Imagini\\Hamlet.jpg",
+            "description": "\"The Tragedy of Hamlet, Prince of Denmark, usually shortened to just Hamlet, is arguably one of the most famous tragedies.The play is set in Denmark and follows the prince Hamlet, who seeks revenge upon his uncle Claudius. Claudius murdered his brother, Hamlet's father, in order to seize the throne and also married his wife and Hamlet's mother Gertrude. After Hamlet's sentries and his friend Horatio encounter the ghost of King Hamlet, they vow to tell his son what they have witnessed.\"",
+            "genre": "drama",
+            "publicationYear": 1603,
+            "title": "Hamlet"
+        }
+    ]
+}
